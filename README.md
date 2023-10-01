@@ -1,5 +1,5 @@
 - ✨ Hi, I’m @emileshah! I'm a freshman at Berkeley.
-- 👀 I’m studying Data Science and Political Science, and am interested in data visualization techniques, machine learning and natural language processing. I have experience in Python data visualization using pandas, numpy, and matplotlib, and experience in web development.
+- 👀 I’m studying Data Science and Political Science, and am interested in data journalism, machine learning and natural language processing. I have experience in Python data visualization using pandas, numpy, and matplotlib, and experience in web development.
 - 🌱 I’m currently learning JavaScript React, R, and expanding on my sci-kit learn knowledge!
 - 📫 You can reach me by emailing emileshah@berkeley.edu. :)
 
